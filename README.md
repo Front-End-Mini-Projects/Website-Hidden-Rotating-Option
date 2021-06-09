@@ -1,5 +1,5 @@
 # Website-Rotating-Article
-A Pretty, Fun, and Cool option to rotate your webpages.
+A Pretty, Fun, and Cool option to rotate your webpages for hidden links!
 
 * Moon - https://unsplash.com/photos/HQPJEEjHqSE
 

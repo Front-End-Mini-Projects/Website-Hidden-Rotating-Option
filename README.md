@@ -4,7 +4,7 @@ A Pretty, Fun, and Cool option to rotate your webpages.
 * Moon - https://unsplash.com/photos/HQPJEEjHqSE
 
 Deployed at 
-https://distracted-hamilton-94b5b2.netlify.app/
+https://gifted-cray-4e8d52.netlify.app
 
 
 ## Desktop
